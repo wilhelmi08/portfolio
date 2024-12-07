@@ -1,0 +1,49 @@
+body {
+    background-image: url(mainbackground.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.student {
+    font-style: italic;
+}
+
+.portfolio {
+    width: 80%;
+    background-image: url(background.jpg);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1000px;
+  }
+
+h1, p{
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    max-width: 500px;
+}
+
+a {
+    color: aliceblue;
+  }
+  
+  a:visited {
+    color: aliceblue;
+  }
+  
+  a:hover {
+    color: gray;
+  }
+  
+  a:active {
+    color: gray;
+  }
